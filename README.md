@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Unique-Ade
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Front End Design, Data Science and Machine Learning.
+- 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on Javascript projects and Internship opportunities.
 - 📫 You can reach me by mail- olagbenrogabriel@gmail.com
 
