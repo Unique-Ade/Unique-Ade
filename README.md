@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Unique-Ade
 - 👀 I’m interested in Front End abd Backend Development, Data Science and Machine Learning.
-- 🌱 I’m currently learning Laravel.
+- 🌱 I’m currently mastering React .
 - 💞️ I’m looking to collaborate on javaScript and PHP web design projects.
 - 📫 You can reach me by mail- olagbenrogabriel@gmail.com
 
