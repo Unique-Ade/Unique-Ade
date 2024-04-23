@@ -1,4 +1,4 @@
-https://github.com/Unique-Ade/Unique-Ade/blob/main/Adeola%20gabriel%20Olagbenro%20Github%20Page.png
+(https://github.com/Unique-Ade/Unique-Ade/blob/main/Adeola%20gabriel%20Olagbenro%20Github%20Page.png)
 
 ### Hello friend 👋, my name is Adeola Gabriel Olagbenro
 I have a keen interest in Full Stack Web Development, Data Science, and Machine Learning. 🌱 Currently, I'm honing my skills in React, striving for mastery in this versatile framework.
