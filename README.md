@@ -1,13 +1,8 @@
-### Hi there 👋, my name is Adeola Gabriel Olagbenro
-I have a keen interest in Full Stack Web Development, Data Science, and Machine Learning.
+### Hi Friend 👋, my name is Adeola Gabriel Olagbenro
+I have a keen interest in Full Stack Web Development, Data Science, and Machine Learning.🌱 Currently, I'm honing my skills in React, striving for mastery in this versatile framework.
+I'm eager to join forces on exciting JavaScript and PHP web design projects, fostering collaboration and innovation.📫 Feel free to reach out to me via email at olagbenrogabriel@gmail.com. Let's connect and create something extraordinary together!
 
-🌱 Currently, I'm honing my skills in React, striving for mastery in this versatile framework.
-
-💞️ I'm eager to join forces on exciting JavaScript and PHP web design projects, fostering collaboration and innovation.
-
-📫 Feel free to reach out to me via email at olagbenrogabriel@gmail.com. Let's connect and create something extraordinary together!
-
-Skills: 💎REACT 💎 JS 💎 HTML 💎 CSS 💎PHP 💎 Manual Software Testing 💎 Figma Design
+Skills: ✔REACT ✔ JS  ✔ HTML  ✔ CSS  ✔PHP 💎 Manual Software Testing 💎 Figma Design
 
 - ⚡ Fun fact: I love swimming and travelling 
 
