@@ -1,23 +1,37 @@
+# Hi, I'm Adeola Gabriel Olagbenro 👋 
+### AI Automation Engineer & Full-Stack Developer 🚀
 
-### Hello friend 👋, my name is Adeola Gabriel Olagbenro
-I have a keen interest in Full Stack Web Development, Data Science, and Machine Learning. 🌱 Currently, I'm honing my skills in React, striving for mastery in this versatile framework.
-💞️ I'm eager to join forces on exciting JavaScript and PHP web design projects, fostering collaboration and innovation.
+I bridge the gap between traditional Web Development and modern AI Orchestration. I specialize in building production-grade automation pipelines that leverage Large Language Models (LLMs) to solve real-world business problems.
 
-📫 Feel free to reach out to me via email at olagbenrogabriel@gmail.com. Let's connect and create something extraordinary together!
+- 🤖 **Currently Focused On:** Engineering autonomous AI workflows using **n8n**, **Deepgram**, and **OpenAI**.
+- 🛠️ **Mastering:** Scalable Full-Stack applications with React.
+- 🌍 **Remote Work Ready:** Experienced in building API-driven solutions for global applications.
 
-Skills:
-✔ REACT.JS
-✔ JavaScript
-✔ HTML
-✔ CSS 
-✔ PHP 
-✔ Python
-✔ C#
-💎 Manual Software Testing 
-💎 Figma Design
+---
 
-- ⚡ Fun fact: I love swimming and travelling 
+### 🛠 Tech Stack & Tools
 
+**AI & Automation**
+- **Orchestration:** n8n
+- **Speech-to-Text:** Deepgram (Nova-2), Whisper
+- **LLMs:** OpenAI (GPT-4), Anthropic (Claude)
+- **Data Logic:** Webhooks, JSON Parsing, Binary Data Handling
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Unique-Ade)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/olagbenro-adeola?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0WQTJrK3QpyREdRwkGR0Hw%3D%3D/)  
+**Full-Stack Development**
+- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3
+- **Backend:** PHP, C#
+- **Design & Test:** Figma, Manual Software Testing
 
+---
+
+### 📂 Featured AI Project: Production-Grade Transcription Pipeline
+*Integrated a multi-stage workflow in n8n that validates incoming binary data, filters by MIME-type/size, and transcribes audio/video via Deepgram with 99.9% uptime logic.*
+[View Workflow Schema](#) ---
+
+### 📫 Connect with Me
+- **Email:** olagbenrogabriel@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/olagbenro-adeola/)
+
+⚡ **Fun fact:** I love swimming and traveling—always looking for the next horizon to explore!
+
+---
