@@ -24,13 +24,13 @@ I bridge the gap between traditional Web Development and modern AI Orchestration
 
 ---
 
-### 📂 Featured AI Project: Production-Grade Transcription Pipeline
-*Integrated a multi-stage workflow in n8n that validates incoming binary data, filters by MIME-type/size, and transcribes audio/video via Deepgram with 99.9% uptime logic.*
-[View Workflow Schema](#) ---
+### 📂 Featured AI Project: Asynchronous Media Transcription Pipeline
+*Architected a non-blocking, multi-stage workflow in n8n that validates incoming binary data, filters by MIME-type/size, and transcribes audio/video via OpenAI Whisper with 202-Accepted acknowledgement logic for 99.9% uptime and zero connection hanging.*
+[View Repository](https://github.com/Unique-Ade/ai-async-media-transcription-pipeline) ---
 
 ### 📫 Connect with Me
 - **Email:** olagbenrogabriel@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/olagbenro-adeola/)
+- **LinkedIn:** [View My Profile](https://www.linkedin.com/in/olagbenro-adeola/)
 
 ⚡ **Fun fact:** I love swimming and traveling—always looking for the next horizon to explore!
 
