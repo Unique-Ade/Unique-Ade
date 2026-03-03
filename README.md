@@ -1,5 +1,5 @@
 # Hi, I'm Adeola Gabriel Olagbenro 👋 
-### AI Automation Engineer & Full-Stack Developer 🚀
+### AI Automation Engineer & Web Developer 🚀
 
 I bridge the gap between traditional Web Development and modern AI Orchestration. I specialize in building production-grade automation pipelines that leverage Large Language Models (LLMs) to solve real-world business problems.
 
